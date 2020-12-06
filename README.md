@@ -44,7 +44,7 @@ This project didn't take me a long time because it doesn't contain many elements
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/) even if it's of no interest in this particular project
-- [Sass](https://sass-lang.com/) by habit
+- [Sass](https://sass-lang.com/) 
 
 ## Features
 
