@@ -8,13 +8,13 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://devchallenges-my-team-page-master.vercel.app/">
       Demo
     </a>
-    <span> | </span>
+    <!-- <span> | </span>
     <a href="https://{your-url-to-the-solution}">
       Solution
-    </a>
+    </a> -->
     <span> | </span>
     <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](screenshot.png)
+[![screenshot](screenshot.png)](https://devchallenges-my-team-page-master.vercel.app/)
 
 This project didn't take me a long time because it doesn't contain many elements, but required me to think about the responsiveness. I chose to use grid because of the offsetted cards.
 
