@@ -11,10 +11,10 @@
     <a href="https://devchallenges-my-team-page-master.vercel.app/">
       Demo
     </a>
-    <!-- <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <span> | </span>
+    <a href="https://github.com/antoineterny/devchallenges-my-team-page-master">
       Solution
-    </a> -->
+    </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
@@ -37,7 +37,8 @@
 
 [![screenshot](screenshot.png)](https://devchallenges-my-team-page-master.vercel.app/)
 
-This project didn't take me a long time because it doesn't contain many elements, but required me to think about the responsiveness. I chose to use grid because of the offsetted cards.
+This project didn't take me a long time because it doesn't contain many elements, but required me to think about the responsiveness. I chose to use grid because of the offsetted cards.  
+I also used React, just to generate the cards.
 
 ### Built With
 
